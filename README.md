@@ -19,5 +19,5 @@ Este proyecto es una página web que muestra información de estudiantes de BIT 
 
 # Autor
 Desarrollado por Tomás Leguizamon
-Proyecto educativo para visualización de estudiantes y sus calificaciones.
+
 
